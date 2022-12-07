@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# it operates with a word
+# it operates with a word ;)
 class Word
   attr_reader :word
 
